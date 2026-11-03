@@ -11,4 +11,4 @@ def test_agent(agent):
     if errors:
         return False, errors
 
-    return True, ["Базовая проверка пройдена"]f
+    return True, ["Базовая проверка пройдена"]
